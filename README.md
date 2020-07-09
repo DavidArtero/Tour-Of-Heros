@@ -1,7 +1,7 @@
 # Tour-Of-Heros
 
 
-Run the CLI command ng new and provide the name angular-tour-of-heroes, as shown here:
+Run the CLI command ng new and provide the name angular-tour-of-heroes, as shown here:<br>
 ng new angular-tour-of-heroes
 
 
